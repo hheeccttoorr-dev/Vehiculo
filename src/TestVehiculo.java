@@ -1,6 +1,6 @@
 public class TestVehiculo {
     static void main() {
-        Coche coche = new Coche("BMW" ,"M4", 2024, 3);
+        Coche coche = new Coche("BMW" ,"M4", 2025, 3);
         Moto moto = new Moto ("BMW", "S1000RR", 2026, 999);
 
         coche.mostrarInformacion();
